@@ -1,0 +1,12 @@
+.\CaliPhoto\right1.bmp
+.\CaliPhoto\right2.bmp
+.\CaliPhoto\right3.bmp
+.\CaliPhoto\right4.bmp
+.\CaliPhoto\right5.bmp
+.\CaliPhoto\right6.bmp
+.\CaliPhoto\right7.bmp
+.\CaliPhoto\right8.bmp
+.\CaliPhoto\right9.bmp
+.\CaliPhoto\right10.bmp
+.\CaliPhoto\right11.bmp
+.\CaliPhoto\right12.bmp
