@@ -1,2 +1,2 @@
 # OpenCV-Stereo-Measure
-双目测距OpenCV C++ 
+双目测距 OpenCV C++ 
